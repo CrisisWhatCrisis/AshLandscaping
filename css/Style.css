@@ -1,0 +1,81 @@
+body{
+    background-color :#a5e6a4;
+    color: #000099;
+    margin: 0 0 0 0;
+}
+
+a, a:link, a:visited, a:hover, a:active{
+    color: red;
+}
+
+table{
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.button_link{
+    color:  #66FF66;
+    text-decoration: none;
+}
+
+.text{
+    color: #000099;
+    font-size: large;
+    font-family: Times New Roman, Times, serif;
+}
+
+.textLarge {
+    color: #000099;
+    font-size: x-large;
+    font-family: Times New Roman, Times, serif;
+}
+
+.textVeryLarge {
+    color: #000099;
+    font-size: xx-large;
+    font-family: Times New Roman, Times, serif;
+}
+
+.textSmall {
+    color: #000099;
+    font-size: small;
+    font-family: Comic Sans MS,serif;
+}
+
+.textVerySmall {
+    color: #000099;
+    font-size: xx-small;
+    font-family: Comic Sans MS,serif;
+}
+
+.aList {
+    float: left;
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.aList ul
+{
+    margin: 0 0 0 20px;
+    padding: 0;
+    list-style-image: url('../images/Dot.gif');
+    text-align: left;
+}
+
+.aList li
+{
+    float: none;
+    margin: 3px;
+    padding: 0;
+}
+
+.aList li span
+{
+    vertical-align: top;
+}
+
+.aList li a
+{
+    vertical-align: top;
+}

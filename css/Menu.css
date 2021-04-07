@@ -1,0 +1,44 @@
+#theMenu
+{
+    float: left;
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+#theMenu ul
+{
+    margin: 0;
+    padding: 2em 0 0 0;
+    list-style: none;
+    text-align: center;
+}
+
+#theMenu li
+{
+    float: left;
+    background: #003300 no-repeat;
+    margin: 3px;
+    padding: 8px;
+    border-radius: 25px;
+}
+
+#theMenu li a {
+    display: block;
+    width: 160px;
+ }
+
+#theMenu a
+{
+    float: left;
+    display: block;
+    background: #003300 no-repeat right top;
+    padding: 0.2em 10px 0.2em 0;
+    text-decoration: none;
+    font-size: large;
+    color: #ffffff;
+}
+
+#theMenu a:hover
+{
+    color: #ffff00;
+}
